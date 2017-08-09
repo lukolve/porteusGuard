@@ -2,7 +2,7 @@
 
 # porteusGuard - porteus directory guard
 #
-# Copyright (c) 2017 Veselovsky lukves at gmail.com
+# Copyright (c) 2017 Veselovsky lukves at outlook.com
 # This software is licensed under the GPL v2 or later.
 
 ## THIS SCRIPT IS ONLY FOR ROOT USER, PLEASE MAKE ##
